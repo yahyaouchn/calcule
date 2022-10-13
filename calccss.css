@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+table{
+    border-color: rgb(6, 8, 131);
+}
+input{
+    background-color: rgb(22, 170, 145);
+    color: rgb(3, 3, 3);
+}
+#result{
+    background-color: rgb(30, 204, 175);
+    
+    font-size: large;
+}
