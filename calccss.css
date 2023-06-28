@@ -1,15 +1,18 @@
 body{
-    background-color: aqua;
+    background-image: url('./—Pngtree—calculator\ children\'s\ day\ toy\ background_1339705.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 table{
-    border-color: rgb(6, 8, 131);
+    border-color: rgb(27, 39, 115);
 }
 input{
-    background-color: rgb(22, 170, 145);
+    background-color: rgb(101, 113, 197);
     color: rgb(3, 3, 3);
+    font-size:larger
 }
 #result{
-    background-color: rgb(30, 204, 175);
+    background-color: rgb(228, 228, 228);
     
-    font-size: large;
+    font-size: x-large;
 }
